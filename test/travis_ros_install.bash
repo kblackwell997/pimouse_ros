@@ -2,9 +2,9 @@
 
 #required
 pip install catkin_pkg
-pip isntall empy
-pip isntall pyyaml
-pip isntall rospkg
+pip install empy
+pip install pyyaml
+pip install rospkg
 
 #ros install
 cd ..
